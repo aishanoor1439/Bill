@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Bill\Bill\bin\Debug\Bill.exe.config
+C:\Users\DELL\source\repos\Bill\Bill\bin\Debug\Bill.exe
+C:\Users\DELL\source\repos\Bill\Bill\bin\Debug\Bill.pdb
+C:\Users\DELL\source\repos\Bill\Bill\obj\Debug\Bill.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Bill\Bill\obj\Debug\Bill.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Bill\Bill\obj\Debug\Bill.exe
+C:\Users\DELL\source\repos\Bill\Bill\obj\Debug\Bill.pdb
